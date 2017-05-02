@@ -5,6 +5,16 @@ body{
 	font-weight: 100 ;
 }
 
+header{
+	background: black ;
+}
+
+
+pre{
+	max-width: auto ;
+	height: auto ;
+	margin: 0 auto ;
+}
 
 
 .navi{
@@ -27,3 +37,20 @@ body{
 	border-style: solid ;
 	border-radius: 50% ;
 }
+
+#landing{
+	background-image: url(".../images/background.jpg") ;
+	background-size: cover ;
+	background-position: center ;
+	display: flex ;
+	justify-content: center ;
+	align-items: center ;
+	box-sizign: border-box ;
+	padding: 5% ;
+	color: white ;
+	text-align: center ;
+	height: 100vh ;
+	margin-bottom: 100px ;
+}
+
+

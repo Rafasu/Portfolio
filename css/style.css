@@ -38,6 +38,13 @@ pre{
 	border-radius: 50% ;
 }
 
+#land{
+	size: cover ;
+	position: center ;
+	padding: 5% ;
+}
+
+
 #landing{
 	background-image: url("/images/background.jpg") ;
 	background-size: cover ;

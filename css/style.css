@@ -1,5 +1,29 @@
+body{
+	padding: 0 ; 
+	margin: 0 ; 
+	font-family: "PT Sans", sans-serif ;
+	font-weight: 100 ;
+}
+
+
+
+.navi{
+	list-style: none ;
+	text-align: center ;
+}
+
+.navi li{
+	display: inline-block ;
+	margin: 15px 25px ;
+	color: white ;
+	letter-spacing: 0.2em ;
+}
+
+
+
 .profile{
 	border-color: light-blue ;
 	border-width: 5px ;
 	border-style: solid ;
+	border-radius: 50% ;
 }
